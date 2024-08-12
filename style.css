@@ -188,7 +188,7 @@ input{
     transform: translate(-100%);
 }
 .overlay{
-    background-image: url('./img/bgimage.jpg');
+    background-image: url('./img/bg-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
